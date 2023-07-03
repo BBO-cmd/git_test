@@ -4,4 +4,4 @@ stash?
 =======
 changed
 hello world!
-
+>>>>>>> Stashed changes
