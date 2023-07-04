@@ -1,4 +1,2 @@
 changed
 hello world!
-
-I modified upstream! plz merge me
