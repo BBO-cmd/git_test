@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
-hello world!
-stash?
-=======
 changed
 hello world!
->>>>>>> Stashed changes
+
+I modified upstream! plz merge me
